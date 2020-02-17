@@ -17,9 +17,15 @@
 
 [06 - Node.js containers](labs/06-Node.js_containers/README.md)
 
+[07 - Java containers](labs/07-Java_containers/README.md)
+
+[08 - Docker networking](labs/08-Docker_networking/README.md)
+
 ## Assignments
 
-[01 - Create a Redis server image ](assignements/01-Create_a_Redis_server_image/README.md)
+[01 - Create a Redis server image ](assignments/01-Create_a_Redis_server_image/README.md)
+
+[02 - Multi-network Wordpress installation ](assignments/02-Multi-network_wordpress_installation/README.md)
 
 ## Appendices
 
