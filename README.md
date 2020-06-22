@@ -31,13 +31,51 @@
 
 [13 - TMPFS mounts](labs/13-TMPFS_mounts/README.md)
 
+[14 - Docker Swarm](labs/14-Docker_Swarm/README.md)
+
+[15 - Overlay networks](labs/15-Overlay_networks/README.md)
+
+[16 - YAML](labs/16-YAML/README.md)
+
+[17 - Docker Compose](labs/17-Docker_compose/README.md)
+
+[18 - Kubernetes](labs/18-Kubernetes/README.md)
+
+[19 - Pod](labs/19-Pod/README.md)
+
+[20 - ReplicationController](labs/20-ReplicationController/README.md)
+
+[21 - ReplicaSet](labs/21-ReplicaSet/README.md)
+
+[22 - Deployment](labs/22-Deployment/README.md)
+
+[23 - Service](labs/23-Service/README.md)
+
+[24 - Ingress](labs/24-Ingress/README.md)
+
+[25 - Volume](labs/25-Volume/README.md)
+
+[26 - PersistentVolume and PersistentVolumeClaim](labs/26-PersistentVolume_and_PersistentVolumeClaim/README.md)
+
+[27 - StorageClass](labs/27-StorageClass/README.md) 
+
+
 ## Assignments
 
 [01 - Create a Redis server image ](assignments/01-Create_a_Redis_server_image/README.md)
 
 [02 - Multi-network Wordpress installation ](assignments/02-Multi-network_wordpress_installation/README.md)
 
-[03 - Manage backups using volumes](assignments/03-03-Manage_backups_using_volumes/README.md)
+[03 - Manage backups using volumes](assignments/03-Manage_backups_using_volumes/README.md)
+
+[04 - Multi-container application with Docker Compose](assignments/04-Multicontainer_application_with_Docker_Compose/README.md)
+
+[05 - Kubernetes Deployment](assignments/05-Kubernetes_Deployment/README.md)
+
+[06 - Expose Deployments using Services](assignments/06-Expose_Deployments_using_Services)
+
+[07 - Expose Deployment using Ingress](assignments/07-Expose_Deployment_using_Ingress)
+
 
 ## Appendices
 

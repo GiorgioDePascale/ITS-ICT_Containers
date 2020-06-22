@@ -16,8 +16,11 @@ $ docker run \
     -e MYSQL_USER=wordpress \
     -e MYSQL_PASSWORD=wordpress \
     --net backend \
+    -d \
     mysql:5.7
 ```
+
+**-d** runs your container in background
 
 **Task 3)** Run the Workdpress container attached to the frontend network 
 
@@ -36,6 +39,8 @@ $ docker run \
     --net frontend \
     wordpress
 ```
+
+**-d** runs your container in background
 
 The two containers do not communicate to each other since they are on different networks.
 
